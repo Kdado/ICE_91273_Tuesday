@@ -9,7 +9,7 @@ package cardgame;
  *
  * @author Revenger Mini
  date 24, sep 2019
- ice 1*/
+ ice 1 test*/
 
 public class CardGame {
 
