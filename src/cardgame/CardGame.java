@@ -8,7 +8,9 @@ package cardgame;
 /**
  *
  * @author Revenger Mini
- date 24, sep 2019*/
+ date 24, sep 2019
+ ice 1*/
+
 public class CardGame {
 
   private String suit; // spades, diamonds, clubs, hearts
